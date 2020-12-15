@@ -7,29 +7,4 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
-# Python
-*.pyc
-*~
-__pycache__
 
-# Env
-.env
-dvenv/
-venv/
-
-# Database
-db.sqlite3
-
-# Static folder at project root
-/static/
-
-# Windows
-Thumbs.db*
-ehthumbs*.db
-[Dd]esktop.ini
-$RECYCLE.BIN/	
-
-# Visual Studio
-.vscode/
-.history/
-*.code-workspace
